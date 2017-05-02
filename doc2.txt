@@ -1,0 +1,2 @@
+Primo File di Testo
+Secondo file di testo, ottenuto come copia dal primo
